@@ -160,6 +160,7 @@ results/lambda_comparison.png
 ## 👩‍💻 Author
 
 **Manasvi Agarwal**
+102303680
 B.E. Computer Engineering (2027)
 
 ---
